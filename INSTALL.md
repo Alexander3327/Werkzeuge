@@ -1,6 +1,6 @@
-#INSTALL
+# INSTALL
 
-##Lorem Ipsum
+## Lorem Ipsum
 
 
 **Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Donec ante tortor, lacinia venenatis dapibus nec, facilisis id dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget condimentum diam, in viverra lectus. Praesent id quam rutrum, scelerisque augue ut, pretium lectus. Sed auctor vulputate ante. Aliquam condimentum quam vel odio ullamcorper imperdiet. Aliquam sodales bibendum rhoncus. Curabitur laoreet magna nec mi fringilla pulvinar. Etiam dictum orci sit amet odio maximus, id rhoncus lacus scelerisque.
